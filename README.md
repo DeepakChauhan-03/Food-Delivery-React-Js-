@@ -1,16 +1,46 @@
-# React + Vite
+# 🍔 Food Delivery App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Food Delivery App built using React.js.  
+This project focuses on creating a clean frontend UI for online food ordering platforms with a smooth and user-friendly experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- 📱 Fully Responsive Design
+- ⚛️ Built with React.js
+- 🎨 Modern UI/UX
+- 🔍 Food Search Interface
+- 🛒 Cart UI Section
+- 🍕 Food Categories
+- 📋 Dynamic Components
+- ⚡ Fast and Smooth Performance
+- ADD TO CART
+- PLACE ORDER
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- HTML5
+- Tailwind CSS
+
+---
+📚 Learning Outcomes
+
+Through this project, I learned:
+
+React component structure
+Props and state management
+Responsive web design
+Reusable UI components
+Frontend project organization
+🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork this repository and improve the project.
+
+👨‍💻 Author
+
+Deepak Chauhan
